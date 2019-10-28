@@ -1,0 +1,14 @@
+---
+- type: replace
+  path: /addons?/-
+  value:
+    name: config-patcher
+    jobs:
+      - name: config-patcher
+        release: config-patcher
+
+- type: replace
+  path: /releases?/-
+  value:
+    name: config-patcher
+    url: https://github.com/orange-cloudfoundry/config-patcher-boshrelease/releases/download/v1.0.0/config-patcher-1.0.0.tgz

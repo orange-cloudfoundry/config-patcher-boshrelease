@@ -1,0 +1,8 @@
+---
+name: config-patcher
+
+dependencies:
+  - golang-1.13-linux
+
+files:
+  - config-patcher/**
