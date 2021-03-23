@@ -1,3 +1,0 @@
-[submodule "src/config-patcher"]
-	path = src/config-patcher
-	url = https://github.com/orange-cloudfoundry/config-patcher.git

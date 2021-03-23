@@ -1,8 +1,7 @@
 ---
 name: config-patcher
 
-dependencies:
-  - golang-1.13-linux
+dependencies: []
 
 files:
-  - config-patcher/**
+  - config-patcher_linux.tar.gz
