@@ -1,0 +1,21 @@
+name: config-patcher
+version: 1.14.0
+commit_hash: 4fcf36f
+uncommitted_changes: false
+jobs:
+- name: config-patcher
+  version: 66aed1bc82e1515983a5ec2bb2fbcce3bc87ef41875ec4ae88be04f90abd2671
+  fingerprint: 66aed1bc82e1515983a5ec2bb2fbcce3bc87ef41875ec4ae88be04f90abd2671
+  sha1: sha256:cbcc44e21020eff291c073368f262d1c2ddfbb5f3457525f90d0c9c63802e964
+  packages:
+  - config-patcher
+packages:
+- name: config-patcher
+  version: 5241da70afff120a04fd884be1ca0d011d5d228434b2c4eb7a3ba788aaae483f
+  fingerprint: 5241da70afff120a04fd884be1ca0d011d5d228434b2c4eb7a3ba788aaae483f
+  sha1: sha256:599a0c2a1897d962d326d78fa54455ceff1df071377fa75e5dca0df87fc6b73d
+  dependencies: []
+license:
+  version: 483b12760736e6239e71b4f5d8409f05eb635659e20bba3fa4012ac27347c6c4
+  fingerprint: 483b12760736e6239e71b4f5d8409f05eb635659e20bba3fa4012ac27347c6c4
+  sha1: sha256:c58d6c1b3e72a4fede10c2cc833ce17600add266b7af83db8194215bc95fa80a
