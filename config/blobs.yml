@@ -1,4 +1,4 @@
 config-patcher_linux.tar.gz:
-  size: 2130940
-  object_id: 63a5df1a-69fe-4be4-76c1-35371fab59b2
-  sha: sha256:91e4b6014fd80aba100a511dd3da1aa76221eaecca4c8d26b577d1f5b9d7a416
+  size: 2130862
+  object_id: cd3d230c-2e3d-4c6d-75f3-04628f0c3ec5
+  sha: sha256:c495afafe9cf9c721d1fc32164baf7037a9b977c49302ab881d85f68b9b9a20c
